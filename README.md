@@ -1,8 +1,8 @@
-# Hi there! I am Debasish 🚀 a Python Developer
+# Hi there! 👋  I am Debasish 🚀 Python Developer | Software Engineer
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-Welcome to my GitHub profile! I'm Debasish Das, a passionate Python Developer with expertise in building scalable applications, designing robust APIs, and leveraging cloud technologies. I enjoy solving complex problems and challenging myself with the new technoloies.
+Welcome to my GitHub profile! A passionate Python Developer with expertise in building scalable applications, designing robust APIs, and leveraging cloud technologies. I enjoy solving complex problems and challenging myself with the new technoloies.
 ## About Me 🧑💻
 
 - 🔭 **Passionate Developer**: Specializing in Python, Django, Flask, and REST API development.
@@ -19,16 +19,17 @@ Welcome to my GitHub profile! I'm Debasish Das, a passionate Python Developer wi
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/DasDebasish1/Aizynthfinder_MCTS_parallel"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DasDebasish1&repo=Aizynthfinder_MCTS_parallel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Aizynthfinder_MCTS_parallel"></a>
-    <a href="https://github.com/DasDebasish1/Aizynthfinder_MCTS_parallel"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DasDebasish1&repo=Aizynthfinder_MCTS_parallel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Aizynthfinder_MCTS_parallel"></a>
+    <a href="https://github.com/DasDebasish1/MCTS-Tic_Tac_Toe_Application"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DasDebasish1&repo=MCTS-Tic_Tac_Toe_Application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MCTS-Tic_Tac_Toe_Application"></a>
+    <a href="https://github.com/DasDebasish1/MCTS_Othello_Game_Application"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DasDebasish1&repo=MCTS_Othello_Game_Application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MCTS_Othello_Game_Application"></a>
+    <a href="https://github.com/DasDebasish1/AI4Green_Parallel_Application"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DasDebasish1&repo=AI4Green_Parallel_Application&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI4Green_Parallel_Application"></a>
   </p>
-
   <a href="https://github.com/DasDebasish1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 ## More info about me 🔗
 
-- :Portfolio: <a href="https://k9n.dev">Checkout my website</a>
-- - :Resume: <a href="https://k9n.dev">Checkout my resume</a>
+- :Portfolio: <a href="https://k9n.dev">Checkout my portfolio</a>
+- :Resume: <a href="https://k9n.dev">Checkout my resume</a>
 - :LeetCode: <a href="https://k9n.dev/blog">Checkout my profile</a>
 
 ## Connect with me :speech_balloon:
