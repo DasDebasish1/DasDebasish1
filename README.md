@@ -2,7 +2,7 @@
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-Welcome to my GitHub profile! A passionate Python Developer with expertise in building scalable applications, designing robust APIs, and leveraging cloud technologies. I enjoy solving complex problems and challenging myself with the new technoloies.
+Welcome to my GitHub profile! I am a passionate Python Developer based in United Kingdom, and hold expertise in building scalable applications, designing robust APIs, and leveraging cloud technologies. I enjoy solving complex problems and challenging myself with the new technoloies.
 ## About Me 🧑💻
 
 - 🔭 **Passionate Developer**: Specializing in Python, Django, Flask, and REST API development.
