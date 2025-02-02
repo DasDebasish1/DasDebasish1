@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a passionate Python Developer based in United
 
 - :Portfolio: <a href="https://k9n.dev">Checkout my portfolio</a>
 - :Resume: <a href="https://k9n.dev">Checkout my resume</a>
-- :LeetCode: <a href="https://k9n.dev/blog">Checkout my profile</a>
+- :**LeetCode** 🎯 : <a href="https://leetcode.com/u/cryptoin09/">**Checkout my profile**</a>
 
 ## Connect with me :speech_balloon:
 
