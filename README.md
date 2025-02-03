@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I am a passionate Python Developer based in United
 
 ## More info about me 🔗
 
-- :Portfolio: <a href="https://k9n.dev">Checkout my portfolio</a>
-- :Resume: <a href="https://k9n.dev">Checkout my resume</a>
+- :**Resume** 📒: <a href="https://k9n.dev">Checkout my resume</a>
 - :**LeetCode** 🎯 : <a href="https://leetcode.com/u/cryptoin09/">**Checkout my profile**</a>
 
 ## Connect with me :speech_balloon:
