@@ -1,4 +1,4 @@
-# Hi there! 👋  I am Debasish 🚀 Python Developer | Software Engineer
+# Hi there! 👋  I am Debasish 🚀 Python Developer | Software Developer
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a passionate Python Developer based in United
 
 ## More info about me 🔗
 
-- :**Resume** 📒: <a href="https://k9n.dev">Checkout my resume</a>
+- :**Resume** 📒: <a href="https://github.com/DasDebasish1/DasDebasish1/blob/main/Debasish_Das_CV_Python_Developer.pdf">**Checkout my resume**</a>
 - :**LeetCode** 🎯 : <a href="https://leetcode.com/u/cryptoin09/">**Checkout my profile**</a>
 
 ## Connect with me :speech_balloon:
