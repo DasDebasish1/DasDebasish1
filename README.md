@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a passionate Python Developer based in United
 
 ## More info about me 🔗
 
-- :**Resume** 📒: <a href="https://github.com/DasDebasish1/DasDebasish1/blob/main/Debasish_Das_CV_Python_Developer.pdf">**Checkout my resume**</a>
+<!-- - :**Resume** 📒: <a href="https://github.com/DasDebasish1/DasDebasish1/blob/main/Debasish_Das_CV_Python_Developer.pdf">**Checkout my resume**</a> -->
 - :**LeetCode** 🎯 : <a href="https://leetcode.com/u/cryptoin09/">**Checkout my profile**</a>
 
 ## Connect with me :speech_balloon:
